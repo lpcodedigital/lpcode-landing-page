@@ -77,6 +77,11 @@ footer {
   margin-top: auto; /* Empuja el footer al fondo cuando el contenido es corto */
 }
 
+.img-icon {
+  height: 50px;
+  width: 50px;
+}
+
 /* Estilos responsivos */
 @media screen and (max-width: 768px) {
   .navbar ul {
