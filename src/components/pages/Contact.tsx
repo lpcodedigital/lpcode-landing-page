@@ -8,7 +8,7 @@ const Contact = () => {
                 <div className="info-item">
                     <img className="img-icon" src="./images/correo.png" alt="Correo" />
                     <h3>Correo Electrónico</h3>
-                    <p>lpcode071294@gamil.com</p>
+                    <p>lpcode071294@gmail.com</p>
                 </div>
                 <div className="info-item">
                     <img className="img-icon" src="./images/telefono.png" alt="Teléfono" />
