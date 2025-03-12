@@ -12,7 +12,7 @@ const Home = () => {
                 <h2>Nuestras Soluciones</h2>
                 <div className="feature-list">
                     <div className="feature-item">
-                        <img className="img-section" src="public/images/soluciones.jpg" alt="Desarrollo de Apps" />
+                        <img className="img-section" src="./images/soluciones.jpg" alt="Desarrollo de Apps" />
                         <h3>Desarrollo de Apps</h3>
                         <p>Desarrollo de aplicaciones móviles (iOS y Android).</p>
                         <p>Creación de plataformas web modernas y escalables.</p>
@@ -21,7 +21,7 @@ const Home = () => {
                         <p>Seguridad y optimización de aplicaciones digitales.</p>
                     </div>
                     <div className="feature-item">
-                        <img className="img-section" src="public/images/Clientes.jpg" alt="Integraciones con APIs" />
+                        <img className="img-section" src="./images/Clientes.jpg" alt="Integraciones con APIs" />
                         <h3>Impacto y Clientes</h3>
                         <p>A lo largo de los años, LPCode ha colaborado con diversas empresas en sectores como:</p>
                         <ul>
@@ -33,7 +33,7 @@ const Home = () => {
                         </ul>
                     </div>
                     <div className="feature-item">
-                        <img className="img-section" src="public/images/soluciones2.jpg" alt="Soluciones Empresariales" />
+                        <img className="img-section" src="./images/soluciones2.jpg" alt="Soluciones Empresariales" />
                         <h3>Soluciones Empresariales</h3>
                         <p>Implementamos software a medida para optimizar los procesos de tu empresa.</p>
                         <p>Nuestro enfoque es comprender las necesidades de cada negocio y desarrollar soluciones personalizadas que aporten valor real a nuestros clientes.</p>

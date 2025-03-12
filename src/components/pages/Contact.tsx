@@ -6,17 +6,17 @@ const Contact = () => {
 
             <div className="contact-info">
                 <div className="info-item">
-                    <img className="img-icon" src="public/images/correo.png" alt="Correo" />
+                    <img className="img-icon" src="./images/correo.png" alt="Correo" />
                     <h3>Correo Electrónico</h3>
                     <p>lpcode071294@gamil.com</p>
                 </div>
                 <div className="info-item">
-                    <img className="img-icon" src="public/images/telefono.png" alt="Teléfono" />
+                    <img className="img-icon" src="./images/telefono.png" alt="Teléfono" />
                     <h3>Teléfono</h3>
                     <p>+52 56 5911 3784</p>
                 </div>
                 <div className="info-item">
-                    <img  className="img-icon" src="public/images/ubicacion.png" alt="Ubicación" />
+                    <img  className="img-icon" src="./images/ubicacion.png" alt="Ubicación" />
                     <h3>Ubicación</h3>
                     <p>Mérida, Yucatán, México</p>
                 </div>
